@@ -5,3 +5,6 @@ This project uses the concept of jquery to select elements and play correspondin
 Clicking on the button or the key of corresponding button plays the unique sound dedicated to it.
 
 To clone this project...you need to just copy paste entire project in your folder and open the index.html file in your web browser.
+
+Give it a try here : `https://ddr7707.github.io/Drums-music`
+
